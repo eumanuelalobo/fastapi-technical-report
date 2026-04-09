@@ -15,3 +15,18 @@ O objetivo principal foi a configuração de um ambiente de desenvolvimento isol
 1. Ative o ambiente virtual:
    ```bash
    & "c:/Users/Manuela Lobo/Downloads/projeto-fastapi/myenv/Scripts/Activate.ps1"
+2. Instale as dependências:
+
+Bash
+pip install fastapi uvicorn
+3. Inicie o servidor:
+
+Bash
+uvicorn main:app --reload
+📂 Documentação e Resultados
+O detalhamento teórico, as etapas de configuração e as evidências de funcionamento estão disponíveis no arquivo abaixo:
+
+
+📄 Relatório Técnico Completo (PDF)
+
+
