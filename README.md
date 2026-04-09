@@ -28,5 +28,5 @@ O detalhamento teórico, as etapas de configuração e as evidências de funcion
 
 
 📄 Relatório Técnico Completo (PDF)
-
+https://github.com/eumanuelalobo/fastapi-technical-report/blob/bc41c740dcbeb0ee9cbc9d45e5a8bc7df686a6dd/Relatorio_Tecnico_FastAPI.pdf
 
